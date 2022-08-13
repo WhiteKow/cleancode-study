@@ -13,7 +13,7 @@
 | **2022-07-23(Sat)/09:00** |   Clean Code Ch.3   | @qrlagusdn, @jjangsungwon, @ChanhuiSeok | [Ch3 Summary](https://github.com/WhiteKow/cleancode-study/blob/main/summary/Ch3.md) |
 | **2022-07-30(Sat)/09:00** |   Clean Code Ch.4   | @qrlagusdn, @jjangsungwon, @ChanhuiSeok | [Ch4 Summary](https://github.com/WhiteKow/cleancode-study/blob/main/summary/Ch4.md)  |
 | **2022-08-06(Sat)/09:00** |  Clean Code Ch.5~6  | @qrlagusdn, @jjangsungwon, @ChanhuiSeok | [Ch5 Summary](https://github.com/WhiteKow/cleancode-study/blob/main/summary/Ch5.md), [Ch6 Summary](https://github.com/WhiteKow/cleancode-study/blob/main/summary/Ch6.md) |
-| **2022-08-13(Sat)/09:00** |  Clean Code Ch.7~8  | @qrlagusdn, @jjangsungwon, @ChanhuiSeok |                                                                                     |
+| **2022-08-13(Sat)/09:00** |  Clean Code Ch.7~8  | @qrlagusdn, @jjangsungwon, @ChanhuiSeok | [Ch7 Summary](https://github.com/WhiteKow/cleancode-study/blob/main/summary/CH7.md), [Ch8 Summary](https://github.com/WhiteKow/cleancode-study/blob/main/summary/Ch8.md) |
 | **2022-08-20(Sat)/09:00** | Clean Code Ch.9~10  | @qrlagusdn, @jjangsungwon, @ChanhuiSeok |                                                                                     |
 | **2022-08-20(Sat)/09:00** | Clean Code Ch.11~12 | @qrlagusdn, @jjangsungwon, @ChanhuiSeok |                                                                                     |
 | **2022-08-27(Sat)/09:00** |  Clean Code Ch.13   | @qrlagusdn, @jjangsungwon, @ChanhuiSeok |                                                                                     |
