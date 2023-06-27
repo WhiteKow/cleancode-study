@@ -1,4 +1,5 @@
 # **Clean-Code study**
+![image](https://github.com/WhiteKow/cleancode-study/assets/37402136/4cdad0d7-5da7-4372-b7bd-839a5167a50d)
 
 ## Description
 
